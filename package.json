@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-js-vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "eyad",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
